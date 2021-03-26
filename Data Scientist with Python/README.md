@@ -20,8 +20,14 @@
 - [ ] *[Assessment: Data Manipulation with Python](https://assessment.datacamp.com/data-manipulation-with-python)*
 
 ## MILESTONE 3 | Create Visualizations to Explore your Data
+- [ ] [Introduction to Data Visualization with Matplotlib](https://www.datacamp.com/courses/introduction-to-data-visualization-with-matplotlib)
+- [ ] [Introduction to Data Visualization with Seaborn](https://www.datacamp.com/courses/introduction-to-data-visualization-with-seaborn)
+- [ ] *[Assessment: Data Visualization with Python](https://assessment.datacamp.com/data-visualization-with-python)*
 
 ## MILESTONE 4 | Write Functions to Solve Problems
+- [ ] [Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1)
+- [ ] [Python Data Science Toolbox (Part 2)](https://www.datacamp.com/courses/python-data-science-toolbox-part-2)
+- [ ] *[Assessment: Python Programming](https://assessment.datacamp.com/python-programming)*
 
 ## MILESTONE 5 | Communicate Data Insights with Visualizations
 
