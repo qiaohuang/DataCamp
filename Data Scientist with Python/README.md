@@ -32,6 +32,7 @@
 ## MILESTONE 5 | Communicate Data Insights with Visualizations
 - [x] [Intermediate Data Visualization with Seaborn](https://www.datacamp.com/courses/intermediate-data-visualization-with-seaborn)
 - [x] [Project: A Visual History of Nobel Prize Winners](https://projects.datacamp.com/projects/441) - **[Solution]()**
+- [x] *[Assessment: Data Visualization with Python](https://assessment.datacamp.com/data-visualization-with-python)*
 
 ## MILESTONE 6 | Prepare Data for Analysis
 
