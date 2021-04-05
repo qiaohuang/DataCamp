@@ -35,12 +35,12 @@
 - [x] *[Assessment: Data Visualization with Python](https://assessment.datacamp.com/data-visualization-with-python)*
 
 ## MILESTONE 6 | Prepare Data for Analysis
-- [ ] [Introduction to Importing Data in Python](https://www.datacamp.com/courses/introduction-to-importing-data-in-python)
-- [ ] [Intermediate Importing Data in Python](https://www.datacamp.com/courses/intermediate-importing-data-in-python)
-- [ ] [Cleaning Data in Python](https://www.datacamp.com/courses/cleaning-data-in-python)
-- [ ] [Working with Dates and Times in Python](https://www.datacamp.com/courses/working-with-dates-and-times-in-python)
-- [ ] [Write Functions in Python](https://www.datacamp.com/courses/writing-functions-in-python)
-- [ ] *[Assessment: Importing & Cleaning Data with Python](https://assessment.datacamp.com/importing-cleaning-data-with-python)*
+- [x] [Introduction to Importing Data in Python](https://www.datacamp.com/courses/introduction-to-importing-data-in-python)
+- [x] [Intermediate Importing Data in Python](https://www.datacamp.com/courses/intermediate-importing-data-in-python)
+- [x] [Cleaning Data in Python](https://www.datacamp.com/courses/cleaning-data-in-python)
+- [x] [Working with Dates and Times in Python](https://www.datacamp.com/courses/working-with-dates-and-times-in-python)
+- [x] [Write Functions in Python](https://www.datacamp.com/courses/writing-functions-in-python)
+- [x] *[Assessment: Importing & Cleaning Data with Python](https://assessment.datacamp.com/importing-cleaning-data-with-python)*
 
 ## MILESTONE 7 | Analyze Data with a Statistical Approach
 
