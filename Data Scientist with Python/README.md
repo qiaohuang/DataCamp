@@ -51,3 +51,10 @@
 - [ ] *[Assessment: Statistics Fundamentals with Python](https://assessment.datacamp.com/statistics-fundamentals-with-python)*
 
 ## MILESTONE 8 | Build Predictive Models to Forecast Outcomes
+- [ ] [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
+- [ ] [Project: Predict Credit Card Approvals](https://projects.datacamp.com/projects/558) - **[Solution]()**
+- [ ] [Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python)
+- [ ] [Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)
+- [ ] [Case Study: School Budgeting with Machine Learning in Python](https://www.datacamp.com/courses/case-study-school-budgeting-with-machine-learning-in-python)
+- [ ] [Cluster Analysis in Python](https://www.datacamp.com/courses/cluster-analysis-in-python)
+- [ ] *[Assessment: Machine Learning Fundamentals in Python](https://assessment.datacamp.com/machine-learning-fundamentals-with-python)*
