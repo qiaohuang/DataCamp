@@ -43,12 +43,12 @@
 - [x] *[Assessment: Importing & Cleaning Data with Python](https://assessment.datacamp.com/importing-cleaning-data-with-python)*
 
 ## MILESTONE 7 | Analyze Data with a Statistical Approach
-- [ ] [Exploratory Data Analysis in Python](https://www.datacamp.com/courses/exploratory-data-analysis-in-python)
-- [ ] [Analyzing Police Activity with pandas](https://www.datacamp.com/courses/analyzing-police-activity-with-pandas)
-- [ ] [Statistical Thinking in Python (Part 1)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1)
-- [ ] [Statistical Thinking in Python (Part 2)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2)
-- [ ] [Project: Dr. Semmelweis and the Discovery of Handwashing](https://projects.datacamp.com/projects/20) - **[Solution]()**
-- [ ] *[Assessment: Statistics Fundamentals with Python](https://assessment.datacamp.com/statistics-fundamentals-with-python)*
+- [x] [Exploratory Data Analysis in Python](https://www.datacamp.com/courses/exploratory-data-analysis-in-python)
+- [x] [Analyzing Police Activity with pandas](https://www.datacamp.com/courses/analyzing-police-activity-with-pandas)
+- [x] [Statistical Thinking in Python (Part 1)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1)
+- [x] [Statistical Thinking in Python (Part 2)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2)
+- [x] [Project: Dr. Semmelweis and the Discovery of Handwashing](https://projects.datacamp.com/projects/20) - **[Solution]()**
+- [x] *[Assessment: Statistics Fundamentals with Python](https://assessment.datacamp.com/statistics-fundamentals-with-python)*
 
 ## MILESTONE 8 | Build Predictive Models to Forecast Outcomes
 - [ ] [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
