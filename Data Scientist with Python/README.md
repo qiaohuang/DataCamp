@@ -9,14 +9,14 @@
 ## MILESTONE 1 | Start with the Basics
 - [x] [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 - [x] [Intermediate Python](https://www.datacamp.com/courses/intermediate-python)
-- [x] [Project: Analyzing TV Data](https://projects.datacamp.com/projects/684) - **[Solution]()**
+- [x] [Project: Analyzing TV Data](https://projects.datacamp.com/projects/684) - **[Solution](https://github.com/qiaohuang/DataCamp/blob/main/Data%20Scientist%20with%20Python/Analyzing%20TV%20Data/notebook.ipynb)**
 - [x] *[Assessment: Python Programming](https://assessment.datacamp.com/python-programming)*
 
 ## MILESTONE 2 | Gain Valuable Insights with Data Manipulation
 - [x] [Data Manipulation with pandas](https://www.datacamp.com/courses/data-manipulation-with-pandas)
-- [x] [Project: The Android App Market on Google Play](https://projects.datacamp.com/projects/619) - **[Solution]()**
+- [x] [Project: The Android App Market on Google Play](https://projects.datacamp.com/projects/619) - **[Solution](https://github.com/qiaohuang/DataCamp/blob/main/Data%20Scientist%20with%20Python/The%20Android%20App%20Market%20on%20Google%20Play/notebook.ipynb)**
 - [x] [Joining Data with pandas](https://www.datacamp.com/courses/joining-data-with-pandas)
-- [x] [Project: The GitHub History of the Scala Language](https://projects.datacamp.com/projects/163) - **[Solution]()**
+- [x] [Project: The GitHub History of the Scala Language](https://projects.datacamp.com/projects/163) - **[Solution](https://github.com/qiaohuang/DataCamp/blob/main/Data%20Scientist%20with%20Python/The%20GitHub%20History%20of%20the%20Scala%20Language/notebook.ipynb)**
 - [x] *[Assessment: Data Manipulation with Python](https://assessment.datacamp.com/data-manipulation-with-python)*
 
 ## MILESTONE 3 | Create Visualizations to Explore your Data
@@ -31,7 +31,7 @@
 
 ## MILESTONE 5 | Communicate Data Insights with Visualizations
 - [x] [Intermediate Data Visualization with Seaborn](https://www.datacamp.com/courses/intermediate-data-visualization-with-seaborn)
-- [x] [Project: A Visual History of Nobel Prize Winners](https://projects.datacamp.com/projects/441) - **[Solution]()**
+- [x] [Project: A Visual History of Nobel Prize Winners](https://projects.datacamp.com/projects/441) - **[Solution](https://github.com/qiaohuang/DataCamp/blob/main/Data%20Scientist%20with%20Python/A%20Visual%20History%20of%20Nobel%20Prize%20Winners/notebook.ipynb)**
 - [x] *[Assessment: Data Visualization with Python](https://assessment.datacamp.com/data-visualization-with-python)*
 
 ## MILESTONE 6 | Prepare Data for Analysis
@@ -47,12 +47,12 @@
 - [x] [Analyzing Police Activity with pandas](https://www.datacamp.com/courses/analyzing-police-activity-with-pandas)
 - [x] [Statistical Thinking in Python (Part 1)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1)
 - [x] [Statistical Thinking in Python (Part 2)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2)
-- [x] [Project: Dr. Semmelweis and the Discovery of Handwashing](https://projects.datacamp.com/projects/20) - **[Solution]()**
+- [x] [Project: Dr. Semmelweis and the Discovery of Handwashing](https://projects.datacamp.com/projects/20) - **[Solution](https://github.com/qiaohuang/DataCamp/blob/main/Data%20Scientist%20with%20Python/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/notebook.ipynb)**
 - [x] *[Assessment: Statistics Fundamentals with Python](https://assessment.datacamp.com/statistics-fundamentals-with-python)*
 
 ## MILESTONE 8 | Build Predictive Models to Forecast Outcomes
-- [ ] [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
-- [ ] [Project: Predict Credit Card Approvals](https://projects.datacamp.com/projects/558) - **[Solution]()**
+- [x] [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
+- [x] [Project: Predict Credit Card Approvals](https://projects.datacamp.com/projects/558) - **[Solution](https://github.com/qiaohuang/DataCamp/blob/main/Data%20Scientist%20with%20Python/Predicting%20Credit%20Card%20Approvals/notebook.ipynb)**
 - [ ] [Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python)
 - [ ] [Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)
 - [ ] [Case Study: School Budgeting with Machine Learning in Python](https://www.datacamp.com/courses/case-study-school-budgeting-with-machine-learning-in-python)
