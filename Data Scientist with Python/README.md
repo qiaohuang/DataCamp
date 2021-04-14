@@ -53,8 +53,8 @@
 ## MILESTONE 8 | Build Predictive Models to Forecast Outcomes
 - [x] [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
 - [x] [Project: Predict Credit Card Approvals](https://projects.datacamp.com/projects/558) - **[Solution](https://github.com/qiaohuang/DataCamp/blob/main/Data%20Scientist%20with%20Python/Predicting%20Credit%20Card%20Approvals/notebook.ipynb)**
-- [ ] [Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python)
-- [ ] [Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)
-- [ ] [Case Study: School Budgeting with Machine Learning in Python](https://www.datacamp.com/courses/case-study-school-budgeting-with-machine-learning-in-python)
-- [ ] [Cluster Analysis in Python](https://www.datacamp.com/courses/cluster-analysis-in-python)
-- [ ] *[Assessment: Machine Learning Fundamentals in Python](https://assessment.datacamp.com/machine-learning-fundamentals-with-python)*
+- [x] [Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python)
+- [x] [Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)
+- [x] [Case Study: School Budgeting with Machine Learning in Python](https://www.datacamp.com/courses/case-study-school-budgeting-with-machine-learning-in-python)
+- [x] [Cluster Analysis in Python](https://www.datacamp.com/courses/cluster-analysis-in-python)
+- [x] *[Assessment: Machine Learning Fundamentals in Python](https://assessment.datacamp.com/machine-learning-fundamentals-with-python)*
